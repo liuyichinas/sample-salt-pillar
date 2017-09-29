@@ -1,0 +1,4 @@
+base:
+  "*":
+    - filedir
+    - common.jdk
